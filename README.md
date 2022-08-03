@@ -21,4 +21,4 @@ Moreover, I'm going to use:
 
 After the  learngitbranching.js.org challenged, I consolidated my knowledge and built a strong conceptual understanding of the technology.
 
-Many thanks to instructors and organizers:-)
+Many thanks to instructors and organizers :blush:
