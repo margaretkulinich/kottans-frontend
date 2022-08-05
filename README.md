@@ -24,17 +24,17 @@ After the  learngitbranching.js.org challenged, I consolidated my knowledge and 
 
 ## Linux CLI, and HTTP
 
-1.Linux Survival
-Unfortunately, I've never used Linux before, everything is new except "сd". Furthermore, I think that such basic commands will be useful:
-* cd
-* mkdir
-* ls
-* cp
-* rm
-* rmdir.
+  1. Linux Survival
+  Unfortunately, I've never used Linux before, everything is new except "сd". Furthermore, I think that such basic commands will be useful:
+  * cd
+  * mkdir
+  * ls
+  * cp
+  * rm
+  * rmdir.
 
 <details><summary>Screenshots</summary>
-  ![This is a first screenshot](/task_linux_cli/1.jpg)
+  ![This is a first screenshot](https://raw.githubusercontent.com/margaretkulinich/kottans-frontend/main/task_linux_cli/1.jpg)
   ![This is a second screenshot](/task_linux_cli/2.jpg)
   ![This is a third screenshot](/task_linux_cli/3.jpg)
   ![This is a fourth screenshot](/task_linux_cli/4.jpg)
