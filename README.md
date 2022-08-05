@@ -34,10 +34,10 @@ After the  learngitbranching.js.org challenged, I consolidated my knowledge and 
   * rmdir.
 
 <details><summary>Screenshots</summary>
-  ![This is a first screenshot](https://raw.githubusercontent.com/margaretkulinich/kottans-frontend/main/task_linux_cli/1.jpg)
-  ![This is a second screenshot](/task_linux_cli/2.jpg)
-  ![This is a third screenshot](/task_linux_cli/3.jpg)
-  ![This is a fourth screenshot](/task_linux_cli/4.jpg)
+  [Quiz 1](https://raw.githubusercontent.com/margaretkulinich/kottans-frontend/main/task_linux_cli/1.jpg)
+  [Quiz 2](/task_linux_cli/2.jpg)
+  [Quiz 3](/task_linux_cli/3.jpg)
+  [Quiz 4](/task_linux_cli/4.jpg)
 </details>
 
 2. HTTP (part 1)
