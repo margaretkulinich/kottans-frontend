@@ -60,14 +60,11 @@ Before, I didn't know about hashing, which contains so many functions and how co
 1. Introduction to Git and GitHub (Week 3, 4)
 In these modules, I learned the difference between Rebase and Merge, what a code review is and to utilize the code review workflow. It will help to me to decide which one is best for using some particular situation Furthermore, I was surprised by the information about the methodology behind continuous integration. Meanwhile, I'm going to use command relative to interaction with remote repository, operations on files, branches and reverting changes.
 
-- [Week 3](https://raw.githubusercontent.com/margaretkulinich/kottans-frontend/main/task_git_collaboration/week3.jpg)
-- [Week 4](https://raw.githubusercontent.com/margaretkulinich/kottans-frontend/main/task_git_collaboration/week4.jpg)
+
 
 2. Fortunately, I had learned git before so I improved my technical skills with learngitbranching.js.org challange. git cherry-pick is new to me. It is a powerful command that enables arbitrary Git commits to be picked by reference and appended to the current working HEAD. 
 The Flight Rules for Git guide has a lot of nuances and useful information to help me quickly solve a problem.
 
-- [learngitbase](https://raw.githubusercontent.com/margaretkulinich/kottans-frontend/main/task_git_collaboration/learngitbase.jpg)
-- [learngitrepo](https://raw.githubusercontent.com/margaretkulinich/kottans-frontend/main/task_git_collaboration/learngitrepo.jpg)
 
 
 Many thanks to instructors and organizers :blush:
