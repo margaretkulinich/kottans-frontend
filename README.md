@@ -24,20 +24,21 @@ After the  learngitbranching.js.org challenged, I consolidated my knowledge and 
 
 ## Linux CLI, and HTTP
 
-  1. Linux Survival
-  Unfortunately, I've never used Linux before, everything is new except "сd". Furthermore, I think that such basic commands will be useful:
-  * cd
-  * mkdir
-  * ls
-  * cp
-  * rm
-  * rmdir.
+1.Linux Survival
+Unfortunately, I've never used Linux before, everything is new except "сd". Furthermore, I think that such basic commands will be useful:
+* cd
+* mkdir
+* ls
+* cp
+* rm
+* rmdir.
 
-#### Screenshots
-  - [Quiz 1](https://raw.githubusercontent.com/margaretkulinich/kottans-frontend/main/task_linux_cli/1.jpg)
-  - [Quiz 2](https://raw.githubusercontent.com/margaretkulinich/kottans-frontend/main/task_linux_cli/2.jpg)
-  - [Quiz 3](https://raw.githubusercontent.com/margaretkulinich/kottans-frontend/main/task_linux_cli/3.jpg)
-  - [Quiz 4](https://raw.githubusercontent.com/margaretkulinich/kottans-frontend/main/task_linux_cli/4.jpg)
+<details><summary>Screenshots</summary>
+  ![This is a first screenshot](/task_linux_cli/1.jpg)
+  ![This is a second screenshot](/task_linux_cli/2.jpg)
+  ![This is a third screenshot](/task_linux_cli/3.jpg)
+  ![This is a fourth screenshot](/task_linux_cli/4.jpg)
+</details>
 
 2. HTTP (part 1)
 I refreshed my knowledge on URL structure, methods and status codes. It was surprising that PUT and DELETE are treated as specialized versions of the POST method and define the exact action: create, update, delete.
@@ -59,11 +60,14 @@ Before, I didn't know about hashing, which contains so many functions and how co
 1. Introduction to Git and GitHub (Week 3, 4)
 In these modules, I learned the difference between Rebase and Merge, what a code review is and to utilize the code review workflow. It will help to me to decide which one is best for using some particular situation Furthermore, I was surprised by the information about the methodology behind continuous integration. Meanwhile, I'm going to use command relative to interaction with remote repository, operations on files, branches and reverting changes.
 
-
+- [Week 3](https://raw.githubusercontent.com/margaretkulinich/kottans-frontend/main/task_git_collaboration/week3.jpg)
+- [Week 4](https://raw.githubusercontent.com/margaretkulinich/kottans-frontend/main/task_git_collaboration/week4.jpg)
 
 2. Fortunately, I had learned git before so I improved my technical skills with learngitbranching.js.org challange. git cherry-pick is new to me. It is a powerful command that enables arbitrary Git commits to be picked by reference and appended to the current working HEAD. 
 The Flight Rules for Git guide has a lot of nuances and useful information to help me quickly solve a problem.
 
+- [learngitbase](https://raw.githubusercontent.com/margaretkulinich/kottans-frontend/main/task_git_collaboration/learngitbase.jpg)
+- [learngitrepo](https://raw.githubusercontent.com/margaretkulinich/kottans-frontend/main/task_git_collaboration/learngitrepo.jpg)
 
 
 Many thanks to instructors and organizers :blush:
