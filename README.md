@@ -24,21 +24,20 @@ After the  learngitbranching.js.org challenged, I consolidated my knowledge and 
 
 ## Linux CLI, and HTTP
 
-1.Linux Survival
-Unfortunately, I've never used Linux before, everything is new except "сd". Furthermore, I think that such basic commands will be useful:
-* cd
-* mkdir
-* ls
-* cp
-* rm
-* rmdir.
+  1. Linux Survival
+  Unfortunately, I've never used Linux before, everything is new except "сd". Furthermore, I think that such basic commands will be useful:
+  * cd
+  * mkdir
+  * ls
+  * cp
+  * rm
+  * rmdir.
 
-<details><summary>Screenshots</summary>
-  ![This is a first screenshot](/task_linux_cli/1.jpg)
-  ![This is a second screenshot](/task_linux_cli/2.jpg)
-  ![This is a third screenshot](/task_linux_cli/3.jpg)
-  ![This is a fourth screenshot](/task_linux_cli/4.jpg)
-</details>
+#### Screenshots
+  - [Quiz 1](https://raw.githubusercontent.com/margaretkulinich/kottans-frontend/main/task_linux_cli/1.jpg)
+  - [Quiz 2](https://raw.githubusercontent.com/margaretkulinich/kottans-frontend/main/task_linux_cli/2.jpg)
+  - [Quiz 3](https://raw.githubusercontent.com/margaretkulinich/kottans-frontend/main/task_linux_cli/3.jpg)
+  - [Quiz 4](https://raw.githubusercontent.com/margaretkulinich/kottans-frontend/main/task_linux_cli/4.jpg)
 
 2. HTTP (part 1)
 I refreshed my knowledge on URL structure, methods and status codes. It was surprising that PUT and DELETE are treated as specialized versions of the POST method and define the exact action: create, update, delete.
